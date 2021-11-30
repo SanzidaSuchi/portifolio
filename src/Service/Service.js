@@ -133,7 +133,7 @@ export default function Service() {
                   </svg>
                 </div>
                 <div className="service__meta">
-                  <h1 className="service__text">Mobile App Development</h1>
+                  <h1 className="service__text">Web Development</h1>
                   <p className="p service__text p__color">
                     I throw myself down among the
                   </p>
@@ -198,7 +198,7 @@ export default function Service() {
                   </svg>
                 </div>
                 <div className="service__meta">
-                  <h1 className="service__text">Mobile App Development</h1>
+                  <h1 className="service__text">Website Development</h1>
                   <p className="p service__text p__color">
                     I throw myself down among the
                   </p>
